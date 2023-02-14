@@ -1,0 +1,22 @@
+{
+    "transfer lists": [
+        {
+            "transfers": [],
+            "name": "Income List"
+        },
+        {
+            "transfers": [
+                {
+                    "amount": 10,
+                    "description": "chocolate"
+                },
+                {
+                    "amount": 20,
+                    "description": "lunch"
+                }
+            ],
+            "name": "Outcome List"
+        }
+    ],
+    "budget": 2000
+}

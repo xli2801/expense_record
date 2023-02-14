@@ -1,0 +1,16 @@
+{
+    "transfer lists": [
+        {
+            "transfers": [],
+            "name": "Income List"
+        },
+        {
+            "transfers": [{
+                "amount": 123,
+                "description": "sdfs"
+            }],
+            "name": "Outcome List"
+        }
+    ],
+    "budget": 1223
+}

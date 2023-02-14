@@ -1,0 +1,22 @@
+{
+    "transfer lists": [
+        {
+            "transfers": [
+                {
+                    "amount": 1000,
+                    "description": "Math tutorial"
+                },
+                {
+                    "amount": 2000,
+                    "description": "CPSC tutorial"
+                }
+            ],
+            "name": "Income List"
+        },
+        {
+            "transfers": [],
+            "name": "Outcome List"
+        }
+    ],
+    "budget": 2000
+}
